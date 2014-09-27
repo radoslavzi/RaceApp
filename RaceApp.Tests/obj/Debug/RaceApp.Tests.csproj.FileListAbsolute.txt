@@ -1,0 +1,164 @@
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\obj\Debug\RaceApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.Tests.dll.config
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.Tests.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.Tests.pdb
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Spatial.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.pdb
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\System.Spatial.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\obj\Debug\RaceApp.Tests.dll
+C:\Users\Radoslav Ivanov\Documents\Visual Studio 2012\Projects\RaceApp\RaceApp.Tests\obj\Debug\RaceApp.Tests.pdb
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.Tests.dll.config
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.Tests.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.Tests.pdb
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Spatial.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\RaceApp.pdb
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\System.Spatial.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\obj\Debug\RaceApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\obj\Debug\RaceApp.Tests.dll
+C:\Users\x201\Desktop\RaceApp\RaceApp.Tests\obj\Debug\RaceApp.Tests.pdb

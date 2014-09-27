@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceApp", "RaceApp\RaceApp.csproj", "{936C1665-94FE-4056-B471-4803FA9C8000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceApp.Tests", "RaceApp.Tests\RaceApp.Tests.csproj", "{052A8C14-F9EA-4C2E-82BE-4DB64D9D1557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936C1665-94FE-4056-B471-4803FA9C8000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936C1665-94FE-4056-B471-4803FA9C8000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936C1665-94FE-4056-B471-4803FA9C8000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936C1665-94FE-4056-B471-4803FA9C8000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052A8C14-F9EA-4C2E-82BE-4DB64D9D1557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052A8C14-F9EA-4C2E-82BE-4DB64D9D1557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052A8C14-F9EA-4C2E-82BE-4DB64D9D1557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052A8C14-F9EA-4C2E-82BE-4DB64D9D1557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
